@@ -26,7 +26,6 @@ function App() {
       } else {
         return setMessage("Not found.")
       }
-      console.log(resData)
     }
     fetchData()
   }
